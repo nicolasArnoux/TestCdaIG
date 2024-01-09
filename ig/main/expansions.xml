@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Bundle xmlns="http://hl7.org/fhir">
-  <id value="1552b3e3-7c54-4945-b65c-ec200933f4c8"/>
+  <id value="fef1a479-a072-407f-8898-dea3d108cb9c"/>
   <meta>
-    <lastUpdated value="2024-01-09T15:39:37.961+00:00"/>
+    <lastUpdated value="2024-01-09T16:02:08.975+00:00"/>
   </meta>
   <type value="collection"/>
   <entry>
-    <fullUrl value="https://interop.esante.gouv.fr/ig/fhir/telesurveillance/ValueSet/EyeColorVS"/>
+    <fullUrl value="https://interop.esante.gouv.fr/ig/fhir/[code]/ValueSet/EyeColorVS"/>
     <resource>
       <ValueSet>
         <text>
@@ -66,12 +66,12 @@
             </table>
           </div>
         </text>
-        <url value="https://interop.esante.gouv.fr/ig/fhir/telesurveillance/ValueSet/EyeColorVS"/>
+        <url value="https://interop.esante.gouv.fr/ig/fhir/[code]/ValueSet/EyeColorVS"/>
         <version value="0.1.0"/>
         <name value="EyeColorVS"/>
         <title value="EyeColor Value Set"/>
         <status value="draft"/>
-        <date value="2024-01-09T15:39:37+00:00"/>
+        <date value="2024-01-09T16:02:08+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -80,8 +80,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:4ce3e118-39d7-4214-b237-75937684ea54"/>
-          <timestamp value="2024-01-09T15:39:50+00:00"/>
+          <identifier value="urn:uuid:347721ec-8588-4de8-8e7a-59fdc1a0bbe9"/>
+          <timestamp value="2024-01-09T16:02:22+00:00"/>
           <total value="3"/>
           <parameter>
             <name value="excludeNested"/>
@@ -124,7 +124,7 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="https://interop.esante.gouv.fr/ig/fhir/telesurveillance/ValueSet/MeltingPotVS"/>
+    <fullUrl value="https://interop.esante.gouv.fr/ig/fhir/[code]/ValueSet/MeltingPotVS"/>
     <resource>
       <ValueSet>
         <text>
@@ -183,10 +183,10 @@
               </tr>
               <tr>
                 <td style="white-space:nowrap">
-                  <a name="https---interop.esante.gouv.fr-ig-fhir-telesurveillance-CodeSystem-competence-code-system-C01"> </a>  
+                  <a name="https---interop.esante.gouv.fr-ig-fhir--code--CodeSystem-competence-code-system-C01"> </a>  
                   <a href="CodeSystem-competence-code-system.html#competence-code-system-C01">C01</a>
                 </td>
-                <td>https://interop.esante.gouv.fr/ig/fhir/telesurveillance/CodeSystem/competence-code-system</td>
+                <td>https://interop.esante.gouv.fr/ig/fhir/[code]/CodeSystem/competence-code-system</td>
                 <td>Anatomie et Cytologie pathologiques humaines</td>
                 <td>
                   <div>
@@ -197,10 +197,10 @@
               </tr>
               <tr>
                 <td style="white-space:nowrap">
-                  <a name="https---interop.esante.gouv.fr-ig-fhir-telesurveillance-CodeSystem-type-carte-code-system-CPA"> </a>  
+                  <a name="https---interop.esante.gouv.fr-ig-fhir--code--CodeSystem-type-carte-code-system-CPA"> </a>  
                   <a href="CodeSystem-type-carte-code-system.html#type-carte-code-system-CPA">CPA</a>
                 </td>
-                <td>https://interop.esante.gouv.fr/ig/fhir/telesurveillance/CodeSystem/type-carte-code-system</td>
+                <td>https://interop.esante.gouv.fr/ig/fhir/[code]/CodeSystem/type-carte-code-system</td>
                 <td>Carte de Personnel Autorisé</td>
                 <td>
                   <div>
@@ -211,10 +211,10 @@
               </tr>
               <tr>
                 <td style="white-space:nowrap">
-                  <a name="https---interop.esante.gouv.fr-ig-fhir-telesurveillance-CodeSystem-type-carte-code-system-CPE"> </a>  
+                  <a name="https---interop.esante.gouv.fr-ig-fhir--code--CodeSystem-type-carte-code-system-CPE"> </a>  
                   <a href="CodeSystem-type-carte-code-system.html#type-carte-code-system-CPE">CPE</a>
                 </td>
-                <td>https://interop.esante.gouv.fr/ig/fhir/telesurveillance/CodeSystem/type-carte-code-system</td>
+                <td>https://interop.esante.gouv.fr/ig/fhir/[code]/CodeSystem/type-carte-code-system</td>
                 <td>Carte de Personnel d'Etablissement</td>
                 <td>
                   <div>
@@ -225,10 +225,10 @@
               </tr>
               <tr>
                 <td style="white-space:nowrap">
-                  <a name="https---interop.esante.gouv.fr-ig-fhir-telesurveillance-CodeSystem-type-carte-code-system-CPF"> </a>  
+                  <a name="https---interop.esante.gouv.fr-ig-fhir--code--CodeSystem-type-carte-code-system-CPF"> </a>  
                   <a href="CodeSystem-type-carte-code-system.html#type-carte-code-system-CPF">CPF</a>
                 </td>
-                <td>https://interop.esante.gouv.fr/ig/fhir/telesurveillance/CodeSystem/type-carte-code-system</td>
+                <td>https://interop.esante.gouv.fr/ig/fhir/[code]/CodeSystem/type-carte-code-system</td>
                 <td>Carte de Professionnel de Santé en Formation</td>
                 <td>
                   <div>
@@ -239,10 +239,10 @@
               </tr>
               <tr>
                 <td style="white-space:nowrap">
-                  <a name="https---interop.esante.gouv.fr-ig-fhir-telesurveillance-CodeSystem-type-carte-code-system-CPS"> </a>  
+                  <a name="https---interop.esante.gouv.fr-ig-fhir--code--CodeSystem-type-carte-code-system-CPS"> </a>  
                   <a href="CodeSystem-type-carte-code-system.html#type-carte-code-system-CPS">CPS</a>
                 </td>
-                <td>https://interop.esante.gouv.fr/ig/fhir/telesurveillance/CodeSystem/type-carte-code-system</td>
+                <td>https://interop.esante.gouv.fr/ig/fhir/[code]/CodeSystem/type-carte-code-system</td>
                 <td>Carte de Professionnel de Santé</td>
                 <td>
                   <div>
@@ -254,12 +254,12 @@
             </table>
           </div>
         </text>
-        <url value="https://interop.esante.gouv.fr/ig/fhir/telesurveillance/ValueSet/MeltingPotVS"/>
+        <url value="https://interop.esante.gouv.fr/ig/fhir/[code]/ValueSet/MeltingPotVS"/>
         <version value="0.1.0"/>
         <name value="MeltingPotVS"/>
         <title value="Melting Pot Value Set"/>
         <status value="draft"/>
-        <date value="2024-01-09T15:39:37+00:00"/>
+        <date value="2024-01-09T16:02:08+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -268,8 +268,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:c070eee5-7f80-4fc9-a4e4-7c332d14066a"/>
-          <timestamp value="2024-01-09T15:39:50+00:00"/>
+          <identifier value="urn:uuid:cce29441-d617-4f5e-a3f7-b1e64502543f"/>
+          <timestamp value="2024-01-09T16:02:22+00:00"/>
           <total value="7"/>
           <parameter>
             <name value="excludeNested"/>
@@ -293,11 +293,11 @@
           </parameter>
           <parameter>
             <name value="used-codesystem"/>
-            <valueUri value="https://interop.esante.gouv.fr/ig/fhir/telesurveillance/CodeSystem/competence-code-system|0.1.0"/>
+            <valueUri value="https://interop.esante.gouv.fr/ig/fhir/[code]/CodeSystem/competence-code-system|0.1.0"/>
           </parameter>
           <parameter>
             <name value="used-codesystem"/>
-            <valueUri value="https://interop.esante.gouv.fr/ig/fhir/telesurveillance/CodeSystem/type-carte-code-system|0.1.0"/>
+            <valueUri value="https://interop.esante.gouv.fr/ig/fhir/[code]/CodeSystem/type-carte-code-system|0.1.0"/>
           </parameter>
           <contains>
             <system value="http://snomed.info/sct"/>
@@ -310,27 +310,27 @@
             <display value="Brown color (qualifier value)"/>
           </contains>
           <contains>
-            <system value="https://interop.esante.gouv.fr/ig/fhir/telesurveillance/CodeSystem/competence-code-system"/>
+            <system value="https://interop.esante.gouv.fr/ig/fhir/[code]/CodeSystem/competence-code-system"/>
             <code value="C01"/>
             <display value="Anatomie et Cytologie pathologiques humaines"/>
           </contains>
           <contains>
-            <system value="https://interop.esante.gouv.fr/ig/fhir/telesurveillance/CodeSystem/type-carte-code-system"/>
+            <system value="https://interop.esante.gouv.fr/ig/fhir/[code]/CodeSystem/type-carte-code-system"/>
             <code value="CPA"/>
             <display value="Carte de Personnel Autorisé"/>
           </contains>
           <contains>
-            <system value="https://interop.esante.gouv.fr/ig/fhir/telesurveillance/CodeSystem/type-carte-code-system"/>
+            <system value="https://interop.esante.gouv.fr/ig/fhir/[code]/CodeSystem/type-carte-code-system"/>
             <code value="CPE"/>
             <display value="Carte de Personnel d'Etablissement"/>
           </contains>
           <contains>
-            <system value="https://interop.esante.gouv.fr/ig/fhir/telesurveillance/CodeSystem/type-carte-code-system"/>
+            <system value="https://interop.esante.gouv.fr/ig/fhir/[code]/CodeSystem/type-carte-code-system"/>
             <code value="CPF"/>
             <display value="Carte de Professionnel de Santé en Formation"/>
           </contains>
           <contains>
-            <system value="https://interop.esante.gouv.fr/ig/fhir/telesurveillance/CodeSystem/type-carte-code-system"/>
+            <system value="https://interop.esante.gouv.fr/ig/fhir/[code]/CodeSystem/type-carte-code-system"/>
             <code value="CPS"/>
             <display value="Carte de Professionnel de Santé"/>
           </contains>
@@ -339,7 +339,7 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="https://interop.esante.gouv.fr/ig/fhir/telesurveillance/ValueSet/ModifiedAdministrativeGender"/>
+    <fullUrl value="https://interop.esante.gouv.fr/ig/fhir/[code]/ValueSet/ModifiedAdministrativeGender"/>
     <resource>
       <ValueSet>
         <text>
@@ -409,12 +409,12 @@
             </table>
           </div>
         </text>
-        <url value="https://interop.esante.gouv.fr/ig/fhir/telesurveillance/ValueSet/ModifiedAdministrativeGender"/>
+        <url value="https://interop.esante.gouv.fr/ig/fhir/[code]/ValueSet/ModifiedAdministrativeGender"/>
         <version value="0.1.0"/>
         <name value="ModifiedAdministrativeGender"/>
         <title value="ModifiedAdministrativeGender"/>
         <status value="draft"/>
-        <date value="2024-01-09T15:39:37+00:00"/>
+        <date value="2024-01-09T16:02:08+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -423,8 +423,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:c4367965-c81e-40b1-8a20-d63496e8c56e"/>
-          <timestamp value="2024-01-09T15:39:50+00:00"/>
+          <identifier value="urn:uuid:0636f4bb-8cbc-47a4-8fab-585219f3d97f"/>
+          <timestamp value="2024-01-09T16:02:22+00:00"/>
           <total value="3"/>
           <parameter>
             <name value="excludeNested"/>
@@ -454,7 +454,7 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="https://interop.esante.gouv.fr/ig/fhir/telesurveillance/ValueSet/TypeCarteVS"/>
+    <fullUrl value="https://interop.esante.gouv.fr/ig/fhir/[code]/ValueSet/TypeCarteVS"/>
     <resource>
       <ValueSet>
         <text>
@@ -481,10 +481,10 @@
               </tr>
               <tr>
                 <td style="white-space:nowrap">
-                  <a name="https---interop.esante.gouv.fr-ig-fhir-telesurveillance-CodeSystem-type-carte-code-system-CPA"> </a>  
+                  <a name="https---interop.esante.gouv.fr-ig-fhir--code--CodeSystem-type-carte-code-system-CPA"> </a>  
                   <a href="CodeSystem-type-carte-code-system.html#type-carte-code-system-CPA">CPA</a>
                 </td>
-                <td>https://interop.esante.gouv.fr/ig/fhir/telesurveillance/CodeSystem/type-carte-code-system</td>
+                <td>https://interop.esante.gouv.fr/ig/fhir/[code]/CodeSystem/type-carte-code-system</td>
                 <td>Carte de Personnel Autorisé</td>
                 <td>
                   <div>
@@ -495,10 +495,10 @@
               </tr>
               <tr>
                 <td style="white-space:nowrap">
-                  <a name="https---interop.esante.gouv.fr-ig-fhir-telesurveillance-CodeSystem-type-carte-code-system-CPE"> </a>  
+                  <a name="https---interop.esante.gouv.fr-ig-fhir--code--CodeSystem-type-carte-code-system-CPE"> </a>  
                   <a href="CodeSystem-type-carte-code-system.html#type-carte-code-system-CPE">CPE</a>
                 </td>
-                <td>https://interop.esante.gouv.fr/ig/fhir/telesurveillance/CodeSystem/type-carte-code-system</td>
+                <td>https://interop.esante.gouv.fr/ig/fhir/[code]/CodeSystem/type-carte-code-system</td>
                 <td>Carte de Personnel d'Etablissement</td>
                 <td>
                   <div>
@@ -509,10 +509,10 @@
               </tr>
               <tr>
                 <td style="white-space:nowrap">
-                  <a name="https---interop.esante.gouv.fr-ig-fhir-telesurveillance-CodeSystem-type-carte-code-system-CPF"> </a>  
+                  <a name="https---interop.esante.gouv.fr-ig-fhir--code--CodeSystem-type-carte-code-system-CPF"> </a>  
                   <a href="CodeSystem-type-carte-code-system.html#type-carte-code-system-CPF">CPF</a>
                 </td>
-                <td>https://interop.esante.gouv.fr/ig/fhir/telesurveillance/CodeSystem/type-carte-code-system</td>
+                <td>https://interop.esante.gouv.fr/ig/fhir/[code]/CodeSystem/type-carte-code-system</td>
                 <td>Carte de Professionnel de Santé en Formation</td>
                 <td>
                   <div>
@@ -523,10 +523,10 @@
               </tr>
               <tr>
                 <td style="white-space:nowrap">
-                  <a name="https---interop.esante.gouv.fr-ig-fhir-telesurveillance-CodeSystem-type-carte-code-system-CPS"> </a>  
+                  <a name="https---interop.esante.gouv.fr-ig-fhir--code--CodeSystem-type-carte-code-system-CPS"> </a>  
                   <a href="CodeSystem-type-carte-code-system.html#type-carte-code-system-CPS">CPS</a>
                 </td>
-                <td>https://interop.esante.gouv.fr/ig/fhir/telesurveillance/CodeSystem/type-carte-code-system</td>
+                <td>https://interop.esante.gouv.fr/ig/fhir/[code]/CodeSystem/type-carte-code-system</td>
                 <td>Carte de Professionnel de Santé</td>
                 <td>
                   <div>
@@ -538,12 +538,12 @@
             </table>
           </div>
         </text>
-        <url value="https://interop.esante.gouv.fr/ig/fhir/telesurveillance/ValueSet/TypeCarteVS"/>
+        <url value="https://interop.esante.gouv.fr/ig/fhir/[code]/ValueSet/TypeCarteVS"/>
         <version value="0.1.0"/>
         <name value="TypeCarteVS"/>
         <title value="Type Carte Value Set"/>
         <status value="draft"/>
-        <date value="2024-01-09T15:39:37+00:00"/>
+        <date value="2024-01-09T16:02:08+00:00"/>
         <jurisdiction>
           <coding>
             <system value="urn:iso:std:iso:3166"/>
@@ -552,8 +552,8 @@
           </coding>
         </jurisdiction>
         <expansion>
-          <identifier value="urn:uuid:8a76c1b1-0c33-4c82-8066-917dbd849c18"/>
-          <timestamp value="2024-01-09T15:39:51+00:00"/>
+          <identifier value="urn:uuid:8a3e2d41-f7c3-4ff7-a523-c8549374c700"/>
+          <timestamp value="2024-01-09T16:02:22+00:00"/>
           <total value="4"/>
           <parameter>
             <name value="excludeNested"/>
@@ -561,25 +561,25 @@
           </parameter>
           <parameter>
             <name value="used-codesystem"/>
-            <valueUri value="https://interop.esante.gouv.fr/ig/fhir/telesurveillance/CodeSystem/type-carte-code-system|0.1.0"/>
+            <valueUri value="https://interop.esante.gouv.fr/ig/fhir/[code]/CodeSystem/type-carte-code-system|0.1.0"/>
           </parameter>
           <contains>
-            <system value="https://interop.esante.gouv.fr/ig/fhir/telesurveillance/CodeSystem/type-carte-code-system"/>
+            <system value="https://interop.esante.gouv.fr/ig/fhir/[code]/CodeSystem/type-carte-code-system"/>
             <code value="CPA"/>
             <display value="Carte de Personnel Autorisé"/>
           </contains>
           <contains>
-            <system value="https://interop.esante.gouv.fr/ig/fhir/telesurveillance/CodeSystem/type-carte-code-system"/>
+            <system value="https://interop.esante.gouv.fr/ig/fhir/[code]/CodeSystem/type-carte-code-system"/>
             <code value="CPE"/>
             <display value="Carte de Personnel d'Etablissement"/>
           </contains>
           <contains>
-            <system value="https://interop.esante.gouv.fr/ig/fhir/telesurveillance/CodeSystem/type-carte-code-system"/>
+            <system value="https://interop.esante.gouv.fr/ig/fhir/[code]/CodeSystem/type-carte-code-system"/>
             <code value="CPF"/>
             <display value="Carte de Professionnel de Santé en Formation"/>
           </contains>
           <contains>
-            <system value="https://interop.esante.gouv.fr/ig/fhir/telesurveillance/CodeSystem/type-carte-code-system"/>
+            <system value="https://interop.esante.gouv.fr/ig/fhir/[code]/CodeSystem/type-carte-code-system"/>
             <code value="CPS"/>
             <display value="Carte de Professionnel de Santé"/>
           </contains>
